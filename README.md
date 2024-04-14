@@ -1,16 +1,36 @@
-### Hi there 👋
+![Ellen M. Price](https://github.com/emprice/emprice/assets/3172578/6ef4d23d-36fe-4bc5-a9f8-7db47118ef68)
 
-<!--
-**emprice/emprice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```json
+{
+    "about_me": {
+        "name": {
+            "full": "Ellen M. Price",
+            "handle": "emprice"
+        },
+        "pronouns": [
+            "she",
+            "her",
+            "hers"
+        ],
+        "website": "https://emprice.org",
+        "education": {
+            "bachelors": [
+                "California Institute of Technology",
+                2015
+            ],
+            "masters": [
+                "Harvard University",
+                2018
+            ],
+            "doctorate": [
+                "Harvard University",
+                2021
+            ]
+        },
+        "employment": [
+            "University of Chicago",
+            "Heising-Simons 51 Pegasi b Postdoctoral Fellow"
+        ]
+    }
+}
+```
