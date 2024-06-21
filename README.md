@@ -1,4 +1,4 @@
-![Ellen M. Price](https://github.com/emprice/emprice/assets/3172578/d3d273f8-ef34-425f-b482-3c87315a7bb8)
+![Ellen M. Price](https://github.com/emprice/emprice/assets/3172578/5423e235-e10c-43fd-80e5-28594bee3842)
 
 ```json
 {
